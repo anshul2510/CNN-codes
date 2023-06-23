@@ -6,3 +6,4 @@ numpy==1.23.0
 matplotlib==3.5.2
 seaborn==0.11.2
 timm==0.6.12
+split-folders==0.5.1
